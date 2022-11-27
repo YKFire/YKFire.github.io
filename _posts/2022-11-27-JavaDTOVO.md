@@ -1,7 +1,7 @@
 ---
 title: Java DTO类与VO类的区别
 date: 2022-11-27 10:53:00 +0800
-categories: [随笔]
+categories: [技术科普]
 tags: [学习]
 pin: true
 author: YKFire
