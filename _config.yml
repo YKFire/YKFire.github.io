@@ -116,6 +116,7 @@ assets:
     env:          # [development|production]
 
 paginate: 7
+paginate_path: "blog/page:num"
 
 # ------------ The following options are not recommended to be modified ------------------
 
