@@ -115,9 +115,8 @@ assets:
     # only works if `assets.self_host.enabled` is 'true'
     env:          # [development|production]
 
-gems: [jekyll-paginate]
-paginate: 10
-paginate_path: "page/:num/"
+
+paginate: 50
 
 # ------------ The following options are not recommended to be modified ------------------
 
