@@ -1,7 +1,7 @@
 ---
 title: Java集合详解
 date: 2023-05-13 19:31:00 +0800
-categories: [随笔]
+categories: [技术科普]
 tags: [学习]
 pin: true
 author: YKFire
