@@ -1,7 +1,7 @@
 ---
 title: 计算机网络发展史(二)
 date: 2023-08-28 12:17:00 +0800
-categories: [技术科普]
+categories: [计算机网络]
 tags: [学习]
 pin: true
 author: YKFire

@@ -1,7 +1,7 @@
 ---
 title: 计算机网络发展史(三)
 date: 2023-09-04 21:50:00 +0800
-categories: [技术科普]
+categories: [计算机网络]
 tags: [学习]
 pin: true
 author: YKFire
